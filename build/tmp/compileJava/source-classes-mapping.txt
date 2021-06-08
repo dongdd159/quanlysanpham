@@ -1,0 +1,12 @@
+model/Category.java
+ model.Category
+config/ConnectionJDBC.java
+ config.ConnectionJDBC
+model/Product.java
+ model.Product
+service/CategoryManager.java
+ service.CategoryManager
+controller/ProductServlet.java
+ controller.ProductServlet
+service/ProductManager.java
+ service.ProductManager
